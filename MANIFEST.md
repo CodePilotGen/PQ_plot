@@ -11,9 +11,9 @@ copyright_owner:
   - I.Sultanov 
 dependencies:
   - gnuradio (>= 3.7.0)
-repo: https://github.com/osh/gr-pyqt.git
+repo: https://github.com/kofakira/PQ_plot.git
 stable_release: HEAD
-icon: http://pyqwt.sourceforge.net/images/m51.png
+
 ---
 
 There blocks provide lots of message and burst plotting and
